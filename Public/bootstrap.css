@@ -1,0 +1,40 @@
+body{
+    background-color: #850E35;
+    font-family: 'Oswald', sans-serif;
+}
+
+.col-4, .col-8, .col-6, .col-12{
+    border: 3px solid black;
+}
+
+h1, h2, ul, p, label{
+    color: #FFF5E4;
+    background-color: #EE6983;
+    text-align: center;
+}
+
+p, ul, li{
+    color: #FFF5E4;
+    list-style-type: square;
+}
+
+label{
+    font-size: 25px;
+}
+
+#decision{
+    text-align: center;
+}
+
+#pregunta{
+    background-color: #EE6983;
+}
+
+#pros, #verso, #dinero, #patitas, #musica, #decision{
+    background-color: #FFC4C4;
+}
+
+#suabe, #am, #origin, #luv{
+    background-color: #850E35;
+}
+
